@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{A2BCA40A-7F11-448A-9F1B-2F9B12A57EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcRedirect.Extension", "MvcRedirect.Extension\MvcRedirect.Extension.csproj", "{6DB4E286-4418-4EA1-8BDC-642E0333AE2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcRedirect.Tests", "MvcRedirect.Tests\MvcRedirect.Tests.csproj", "{E0CAAEE5-8F3B-4980-9F7B-10317178E4A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BCA40A-7F11-448A-9F1B-2F9B12A57EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BCA40A-7F11-448A-9F1B-2F9B12A57EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BCA40A-7F11-448A-9F1B-2F9B12A57EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BCA40A-7F11-448A-9F1B-2F9B12A57EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB4E286-4418-4EA1-8BDC-642E0333AE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB4E286-4418-4EA1-8BDC-642E0333AE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB4E286-4418-4EA1-8BDC-642E0333AE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB4E286-4418-4EA1-8BDC-642E0333AE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0CAAEE5-8F3B-4980-9F7B-10317178E4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CAAEE5-8F3B-4980-9F7B-10317178E4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CAAEE5-8F3B-4980-9F7B-10317178E4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CAAEE5-8F3B-4980-9F7B-10317178E4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
